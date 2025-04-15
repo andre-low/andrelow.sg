@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andre Low</title>
-    <link>https://andrelow.sg/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Andre Low</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Andre Low Wu Yang</copyright>
-    <lastBuildDate>Mon, 14 Apr 2025 23:19:05 +0800</lastBuildDate><atom:link href="https://andrelow.sg/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Apr 2025 23:19:05 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Andre Low</title>
-      <link>https://andrelow.sg/about-me/</link>
-      <pubDate>Mon, 14 Apr 2025 23:29:51 +0800</pubDate>
+      <title>Stepping up</title>
+      <link>http://localhost:1313/thoughts/stepping-up/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://andrelow.sg/about-me/</guid>
-      <description>About me # Low Wu Yang Andre</description>
+      <guid>http://localhost:1313/thoughts/stepping-up/</guid>
+      <description>My journey in blue.</description>
       
     </item>
     
     <item>
-      <title>Stepping up</title>
-      <link>https://andrelow.sg/thoughts/stepping-up/</link>
-      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <title>Andre Low</title>
+      <link>http://localhost:1313/about-me/</link>
+      <pubDate>Mon, 14 Apr 2025 23:29:51 +0800</pubDate>
       
-      <guid>https://andrelow.sg/thoughts/stepping-up/</guid>
-      <description>My journey in blue.</description>
+      <guid>http://localhost:1313/about-me/</guid>
+      <description>About me # Low Wu Yang Andre</description>
       
     </item>
     

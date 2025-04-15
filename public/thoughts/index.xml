@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thoughts on Andre Low</title>
-    <link>https://andrelow.sg/thoughts/</link>
+    <link>http://localhost:1313/thoughts/</link>
     <description>Recent content in Thoughts on Andre Low</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Andre Low Wu Yang</copyright>
-    <lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://andrelow.sg/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/thoughts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Stepping up</title>
-      <link>https://andrelow.sg/thoughts/stepping-up/</link>
-      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/thoughts/stepping-up/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://andrelow.sg/thoughts/stepping-up/</guid>
+      <guid>http://localhost:1313/thoughts/stepping-up/</guid>
       <description>My journey in blue.</description>
       
     </item>

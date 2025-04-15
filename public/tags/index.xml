@@ -2,29 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Andre Low</title>
-    <link>https://andrelow.sg/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Andre Low</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Andre Low Wu Yang</copyright>
-    <lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://andrelow.sg/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>GE 2025</title>
-      <link>https://andrelow.sg/tags/ge-2025/</link>
-      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <title>GE2025</title>
+      <link>http://localhost:1313/tags/ge2025/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://andrelow.sg/tags/ge-2025/</guid>
+      <guid>http://localhost:1313/tags/ge2025/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>StepUp</title>
+      <link>http://localhost:1313/tags/stepup/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/stepup/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Volunteering</title>
-      <link>https://andrelow.sg/tags/volunteering/</link>
-      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/tags/volunteering/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://andrelow.sg/tags/volunteering/</guid>
+      <guid>http://localhost:1313/tags/volunteering/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>WorkingforSingapore</title>
+      <link>http://localhost:1313/tags/workingforsingapore/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/workingforsingapore/</guid>
       <description></description>
       
     </item>
