@@ -14,7 +14,7 @@ layout: 'simple'
 
 Low Wu Yang Andre  
 刘宇扬  
-34 years old  
+33 years old  
 Married, with one child on the way
 
 ## Bio
@@ -22,6 +22,10 @@ Married, with one child on the way
 An only child to two MOE teachers, I was taught from a young age to embrace curiosity and ask questions of the world around me.
 
 Today, I am stepping up to build a better future for Singapore, one that embraces diverse perspectives, dares to dream and experiment, and makes sure no Singaporean is ever left behind.
+
+{{< button href="https://www.wp.sg/candidate/low-wu-yang-andre" target="_blank" >}}
+Read my full profile on the Workers’ Party website
+{{< /button >}}
 
 ## Career highlights
 
