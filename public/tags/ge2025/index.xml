@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GE2025 on Andre Low for Jalan Kayu SMC</title>
-    <link>http://localhost:1313/tags/ge2025/</link>
+    <link>https://andrelow.sg/tags/ge2025/</link>
     <description>Recent content in GE2025 on Andre Low for Jalan Kayu SMC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Low Wu Yang Andre</copyright>
-    <lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ge2025/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://andrelow.sg/tags/ge2025/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Stepping up</title>
-      <link>http://localhost:1313/thoughts/stepping-up/</link>
+      <link>https://andrelow.sg/thoughts/stepping-up/</link>
       <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/thoughts/stepping-up/</guid>
+      <guid>https://andrelow.sg/thoughts/stepping-up/</guid>
       <description>My journey in blue.</description>
       
     </item>
