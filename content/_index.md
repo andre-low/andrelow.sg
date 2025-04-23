@@ -6,7 +6,7 @@ draft = false
 
 {{< youtubeLite id="aRRJuHEf1Ec" label="GE2025 Candidate introduction - Andre Low 刘宇扬">}}
 
-Dear residents of Jalan Kayu and Fernvale, I am your Workers' Party candidate for Jalan Kayu SMC.
+Dear residents of Jalan Kayu and Fernvale, I am Andre, your Workers' Party candidate for Jalan Kayu SMC.
 
 An only child to two MOE teachers, I was taught from a young age to embrace curiosity and ask questions of the world around me.
 
@@ -15,6 +15,3 @@ Today, I am stepping up to build a better future for Singapore, one that embrace
 {{< button href="/about-me" target="_self" >}}
 Get to know me
 {{< /button >}}
-
-## Watch my nomination acceptance speech
-{{< youtubeLite id="wrR2ZRdxNjU" label="Jalan Kayu nomination acceptance speech - Andre Low 刘宇扬" params="start=63">}}
