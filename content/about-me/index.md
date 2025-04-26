@@ -19,6 +19,8 @@ Married, with one child on the way
 
 ## Bio
 
+{{< youtubeLite id="aRRJuHEf1Ec" label="GE2025 Candidate Introduction - Andre Low 刘宇扬">}}
+
 An only child to two MOE teachers, I was taught from a young age to embrace curiosity and ask questions of the world around me.
 
 Today, I am stepping up to build a better future for Singapore, one that embraces diverse perspectives, dares to dream and experiment, and makes sure no Singaporean is ever left behind.

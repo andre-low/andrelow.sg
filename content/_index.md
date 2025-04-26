@@ -4,7 +4,7 @@ draft = false
 # title = 'Andre Low'
 +++
 
-{{< youtubeLite id="aRRJuHEf1Ec" label="GE2025 Candidate introduction - Andre Low 刘宇扬">}}
+{{< youtubeLite id="CQRNOoy6mJA" label="WP Rally 24 April - Andre Low">}}
 
 Dear residents of Jalan Kayu and Fernvale, I am Andre, your Workers' Party candidate for Jalan Kayu SMC.
 

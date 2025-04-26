@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>WorkingForSingapore on Andre Low for Jalan Kayu</title>
-    <link>https://andrelow.sg/tags/workingforsingapore/</link>
-    <description>Recent content in WorkingForSingapore on Andre Low for Jalan Kayu</description>
+    <title>Speeches on Andre Low for Jalan Kayu</title>
+    <link>https://andrelow.sg/speeches/</link>
+    <description>Recent content in Speeches on Andre Low for Jalan Kayu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Low Wu Yang Andre</copyright>
-    <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://andrelow.sg/tags/workingforsingapore/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://andrelow.sg/speeches/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>First rally speech: Standing up for accountability</title>
@@ -17,16 +17,6 @@
       <guid>https://andrelow.sg/speeches/rally1/</guid>
       <description>Holding those in power to account Good evening, fellow Singaporeans.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://andrelow.sg/speeches/rally1/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>Stepping up</title>
-      <link>https://andrelow.sg/thoughts/stepping-up/</link>
-      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrelow.sg/thoughts/stepping-up/</guid>
-      <description>My journey in blue.</description>
-      
     </item>
     
   </channel>

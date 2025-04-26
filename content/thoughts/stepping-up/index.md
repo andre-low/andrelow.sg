@@ -3,7 +3,7 @@ title: "Stepping up"
 date: 2025-04-15
 draft: false
 description: "My volunteering experiences with the Workers' Party"
-tags: ["GE2025", "StepUp", "WorkingforSingapore", "Volunteering"]
+tags: ["GE2025", "StepUp", "WorkingForSingapore", "Volunteering"]
 ---
 
 {{< lead >}}

@@ -18,6 +18,12 @@
 
 [[main]]
     pre = "message-circle"
+    name = "Speeches"
+    pageRef = "speeches"
+    weight = 15
+
+[[main]]
+    pre = "book-heart"
     name = "Thoughts"
     pageRef = "thoughts"
     weight = 20
