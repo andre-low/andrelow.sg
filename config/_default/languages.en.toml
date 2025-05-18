@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Andre Low for Jalan Kayu"
+title = "Andre Low"
 
 [params]
   displayName = "EN"
@@ -19,7 +19,7 @@ title = "Andre Low for Jalan Kayu"
 #   email = "youremail@example.com"
   image = "img/portrait_close_square_small.jpg"
 #   imageQuality = 96
-  headline = "**Workers’ Party Candidate for Jalan Kayu SMC**<br>Lawyer turned tech professional, strategy consultant"
+  headline = "**The Workers’ Party**<br>Lawyer turned tech professional, strategy consultant"
 #   bio = "Lorem ipsum"
   links = [
 #     { email = "mailto:hello@your_domain.com" },
