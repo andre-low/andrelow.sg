@@ -28,12 +28,6 @@
     pageRef = "thoughts"
     weight = 20
 
-[[main]]
-    pre = "globe"
-    name = "wp.sg"
-    url = "https://www.wp.sg"
-    weight = 99
-
 #[[main]]
 #  name = "Parent"
 #  weight = 20
@@ -85,6 +79,12 @@
     name = "Donate to WP"
     url = "https://donate.wp.sg/"
     weight = 20
+
+[[footer]]
+    pre = "globe"
+    name = "wp.sg"
+    url = "https://www.wp.sg"
+    weight = 30
 
 # [[footer]]
 #     name = "Tags"

@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Andre Low"
+title = "Andre Low, NCMP"
 
 [params]
   displayName = "EN"
@@ -15,15 +15,15 @@ title = "Andre Low"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-  name = "Andre Low Wu Yang"
-#   email = "youremail@example.com"
+  name = "Andre Low"
+  email = "andre.low@wp.sg"
   image = "img/portrait_close_square_small.jpg"
 #   imageQuality = 96
-  headline = "**The Workers’ Party**<br>Lawyer turned tech professional, strategy consultant"
+  headline = "**Non-constituency Member of Parliament (NCMP)**<br>The Workers’ Party"
 #   bio = "Lorem ipsum"
   links = [
-#     { email = "mailto:hello@your_domain.com" },
-    # { link = "https://wp.sg/" },
+    { email = "mailto:andre.low@wp.sg" },
+#     { link = "https://wp.sg/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
 #     { blogger = "https://username.blogspot.com/" },
@@ -44,7 +44,7 @@ title = "Andre Low"
 #     { keybase = "https://keybase.io/username" },
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
 #     { lastfm = "https://lastfm.com/user/username" },
-    { linkedin = "https://linkedin.com/in/andrelow" },
+#     { linkedin = "https://linkedin.com/in/andrelow" },
 #     { mastodon = "https://mastodon.instance/@username" },
 #     { medium = "https://medium.com/username" },
 #     { microsoft = "https://www.microsoft.com/" },
@@ -66,7 +66,7 @@ title = "Andre Low"
 #     { twitch = "https://twitch.tv/username" },
 #     { twitter = "https://twitter.com/username" },
 #     { x-twitter = "https://twitter.com/username" },
-#     { whatsapp = "https://wa.me/phone-number" },
+    { whatsapp = "https://wa.me/+6583378372" },
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},

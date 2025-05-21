@@ -6,11 +6,7 @@ draft = false
 
 {{< youtubeLite id="aRRJuHEf1Ec" label="GE2025 Candidate Introduction - Andre Low 刘宇扬">}}
 
-Dear residents of Jalan Kayu and Fernvale, I am Andre, your Workers' Party candidate for Jalan Kayu SMC.
-
-An only child to two teachers, I was taught from a young age to embrace curiosity and ask questions of the world around me.
-
-Today, I am stepping up to build a better future for Singapore, one that embraces diverse perspectives, dares to dream and experiment, and makes sure no Singaporean is ever left behind.
+I am humbled to be given the opportunity to serve as an NCMP. My pledge to all Singaporeans is that I will use my platform to continue to advocate for a more balanced and diverse political system.
 
 {{< button href="/about-me" target="_self" >}}
 Get to know me

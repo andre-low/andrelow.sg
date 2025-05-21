@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Andre Low</title>
+    <title>Tags on Andre Low, NCMP</title>
     <link>https://andrelow.sg/tags/</link>
-    <description>Recent content in Tags on Andre Low</description>
+    <description>Recent content in Tags on Andre Low, NCMP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 Andre Low Wu Yang</copyright>
+    <managingEditor>andre.low@wp.sg (Andre Low)</managingEditor>
+    <webMaster>andre.low@wp.sg (Andre Low)</webMaster>
+    <copyright>© 2025 Andre Low</copyright>
     <lastBuildDate>Tue, 29 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://andrelow.sg/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>GE2025</title>
       <link>https://andrelow.sg/tags/ge2025/</link>
       <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
-      
+      <author>andre.low@wp.sg (Andre Low)</author>
       <guid>https://andrelow.sg/tags/ge2025/</guid>
       <description></description>
       
@@ -23,7 +25,7 @@
       <title>NotWhite</title>
       <link>https://andrelow.sg/tags/notwhite/</link>
       <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
-      
+      <author>andre.low@wp.sg (Andre Low)</author>
       <guid>https://andrelow.sg/tags/notwhite/</guid>
       <description></description>
       
@@ -33,7 +35,7 @@
       <title>Rallies</title>
       <link>https://andrelow.sg/tags/rallies/</link>
       <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
-      
+      <author>andre.low@wp.sg (Andre Low)</author>
       <guid>https://andrelow.sg/tags/rallies/</guid>
       <description></description>
       
@@ -43,7 +45,7 @@
       <title>WorkingForSingapore</title>
       <link>https://andrelow.sg/tags/workingforsingapore/</link>
       <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
-      
+      <author>andre.low@wp.sg (Andre Low)</author>
       <guid>https://andrelow.sg/tags/workingforsingapore/</guid>
       <description></description>
       
@@ -53,7 +55,7 @@
       <title>StepUp</title>
       <link>https://andrelow.sg/tags/stepup/</link>
       <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
-      
+      <author>andre.low@wp.sg (Andre Low)</author>
       <guid>https://andrelow.sg/tags/stepup/</guid>
       <description></description>
       
@@ -63,7 +65,7 @@
       <title>Volunteering</title>
       <link>https://andrelow.sg/tags/volunteering/</link>
       <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
-      
+      <author>andre.low@wp.sg (Andre Low)</author>
       <guid>https://andrelow.sg/tags/volunteering/</guid>
       <description></description>
       

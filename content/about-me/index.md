@@ -1,7 +1,7 @@
 ---
 date: '2025-04-14T23:29:51+08:00'
 draft: false
-title: 'Andre Low'
+title: 'Low Wu Yang Andre'
 layout: 'simple'
 ---
 
@@ -25,7 +25,7 @@ An only child to two MOE teachers, I was taught from a young age to embrace curi
 
 Today, I am stepping up to build a better future for Singapore, one that embraces diverse perspectives, dares to dream and experiment, and makes sure no Singaporean is ever left behind.
 
-[{{< icon "linkedin" >}} Find me on LinkedIn](https://www.linkedin.com/in/andrelow/)
+I am humbled to be given the opportunity to serve as an NCMP. My pledge to all Singaporeans is that I will use my platform to continue to advocate for a more balanced and diverse political system.
 
 ## Career highlights
 

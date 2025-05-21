@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Speeches on Andre Low</title>
+    <title>Speeches on Andre Low, NCMP</title>
     <link>https://andrelow.sg/speeches/</link>
-    <description>Recent content in Speeches on Andre Low</description>
+    <description>Recent content in Speeches on Andre Low, NCMP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 Andre Low Wu Yang</copyright>
+    <managingEditor>andre.low@wp.sg (Andre Low)</managingEditor>
+    <webMaster>andre.low@wp.sg (Andre Low)</webMaster>
+    <copyright>© 2025 Andre Low</copyright>
     <lastBuildDate>Tue, 29 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://andrelow.sg/speeches/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Final rally speech: Building a better future for Singapore</title>
       <link>https://andrelow.sg/speeches/rally3/</link>
       <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
-      
+      <author>andre.low@wp.sg (Andre Low)</author>
       <guid>https://andrelow.sg/speeches/rally3/</guid>
       <description>A vision for a more creative and innovative Singapore Good evening, friends from across Singapore and residents of Jalan Kayu.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://andrelow.sg/speeches/rally3/featured.jpg" />
@@ -23,7 +25,7 @@
       <title>Second rally speech: The affordability crisis</title>
       <link>https://andrelow.sg/speeches/rally2/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      
+      <author>andre.low@wp.sg (Andre Low)</author>
       <guid>https://andrelow.sg/speeches/rally2/</guid>
       <description>Keeping Singapore affordable for everyday Singaporeans Good evening, my friends and neighbours.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://andrelow.sg/speeches/rally2/featured.jpg" />
@@ -33,7 +35,7 @@
       <title>First rally speech: Standing up for accountability</title>
       <link>https://andrelow.sg/speeches/rally1/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
-      
+      <author>andre.low@wp.sg (Andre Low)</author>
       <guid>https://andrelow.sg/speeches/rally1/</guid>
       <description>Holding those in power to account Good evening, fellow Singaporeans.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://andrelow.sg/speeches/rally1/featured.jpg" />
