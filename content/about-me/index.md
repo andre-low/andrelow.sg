@@ -15,7 +15,7 @@ layout: 'simple'
 Low Wu Yang Andre  
 刘宇扬  
 34 years old  
-Married, with one child on the way
+Married, with one child
 
 ## Bio
 
