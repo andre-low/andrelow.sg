@@ -3,13 +3,15 @@ title: "A strategy for a thriving people"
 date: 2025-09-23
 draft: false
 description: "A changing world needs a new strategy to not just survive the challenges ahead, but to thrive despite them. A strategy built on security, investment, and trust in our people."
-tags: ["Parliament","Jobs","AI","Housing","Education","Accountability and Democracy"]
+tags: ["Parliament","Jobs","AI","Housing","Education","Lifelong learning","Accountability and Democracy"]
 showHero: true
 ---
 
 {{< lead >}}
 A changing world needs a new strategy to not just survive the challenges ahead, but to thrive despite them. A strategy built on security, investment, and trust in our people.
 {{< /lead >}}
+
+{{< youtubeLite id="c-PVPz1hL9Q" label="A strategy for a thriving people" >}}
 
 Mr Speaker,
 
