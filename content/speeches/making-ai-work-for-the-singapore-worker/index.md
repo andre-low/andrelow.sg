@@ -1,5 +1,5 @@
 ---
-title: "AI as a strategic advantage for whom? Making AI work for the Singaporean worker"
+title: "Making AI work for the Singaporean worker"
 date: 2026-02-26
 draft: false
 description: "If AI is a national strategic advantage, for whom is it an advantage? In my Budget 2026 speech, I outline a three-pillar strategy to ensure AI uplifts Singaporean workers: developing sovereign AI capabilities, protecting young graduates from a ‘broken bottom rung,’ and introducing a targeted AI Gains Audit alongside Redundancy Insurance."
