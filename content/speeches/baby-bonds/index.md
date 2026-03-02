@@ -2,7 +2,7 @@
 title: "Baby bonds to tackle wealth inequality and boost total fertility rate"
 date: 2026-02-26
 draft: false
-description: ""
+description: "I propose a baby bonds scheme to tackle wealth inequality"
 tags: ["Parliament", "Budget 2026", "Committee of supply", "Wealth inequality", "Fertility", "Retirement adequacy"]
 showHero: true
 ---
