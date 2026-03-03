@@ -7,6 +7,12 @@ tags: ["Parliament", "Budget 2026", "Committee of supply", "Wealth inequality", 
 showHero: true
 ---
 
+{{< lead >}}
+A hypothetical $5,000 endowment, could become $20,000 by age 18, enough to pay for 1-2 years of tuition. If compounded over a lifetime, it could become $200,000 at age 65, if using a conservative lifecycle approach. Or $400,000 or more, if using a more aggressive, equities-only strategy.
+{{< /lead >}}
+
+{{< youtubeLite id="ilEzKkEa6fM" label="Baby bonds to tackle wealth inequality and boost total fertility rate" >}}
+
 Chairman, earlier this month, the Ministry of Finance published Singapore's wealth inequality data for the first time. Our wealth Gini stands at 0.55 — higher than our income Gini, and likely an underestimate.
 
 Wealth and income inequality are distinct problems requiring distinct solutions. Wealth compounds across a lifetime and passes down across generations. MOF's own data shows social mobility is moderating — among children born to fathers in the bottom 20 per cent, the proportion who remained stuck in that bracket increased across successive cohorts. The ladder is still there. But the rungs are getting further apart.

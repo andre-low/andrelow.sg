@@ -11,6 +11,8 @@ showHero: true
 Caveat emptor is dead. Today’s consumer faces sophisticated commercial machinery engineered to extract compliance through confusion, inertia, and fear — and our laws haven’t kept up.
 {{< /lead >}}
 
+{{< youtubeLite id="QAaSgCXVGKo" label="Strengthening consumer protection and addressing predatory sales tactics targeting the vulnerable" >}}
+
 Chairman, let me begin with a Latin phrase every lawyer knows: *caveat emptor*—buyer beware.
 
 This was a doctrine born for a simpler world. A world of physical retail and handshakes, where buyer and seller stood on more equal ground. That world is gone.

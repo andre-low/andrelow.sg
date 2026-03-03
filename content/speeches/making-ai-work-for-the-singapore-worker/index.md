@@ -11,6 +11,8 @@ showHero: true
 The experienced professionals of 2046 are the junior hires of today. If we do not hire them today, we will not have them in twenty years.
 {{< /lead >}}
 
+{{< youtubeLite id="eyhWFhWNrTY" label="Making AI work for the Singaporean worker" >}}
+
 Mr Speaker,
 
 The Prime Minister has set out an ambitious vision for AI. He asks us to harness it as a strategic advantage. I agree with that framing. The question I want to put to this House today is: a strategic advantage for whom? The answer will determine whether Budget 2026 fulfils its promise—that growth must translate into good jobs and rising incomes for Singaporeans.

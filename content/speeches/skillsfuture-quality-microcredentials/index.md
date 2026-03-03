@@ -11,6 +11,8 @@ showHero: true
 SkillsFuture risks becoming a supermarket of courses—plenty of choice, but no clear ladder to climb towards better career outcomes.
 {{< /lead >}}
 
+{{< youtubeLite id="dGVnvdIBYso" label="SkillsFuture—quality microcredentials" >}}
+
 Chairman,
 
 In my maiden speech at the debate on the President’s address, I said that SkillsFuture risks becoming a supermarket of courses—plenty of choice, but no clear ladder to climb towards better career outcomes. Today I want to return to that concern, and ask the Ministry to take three concrete steps.
