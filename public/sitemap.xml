@@ -3,13 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://andrelow.sg/speeches/express-trains-and-shortening-commutes/</loc>
-    <lastmod>2026-03-04T00:00:00+00:00</lastmod>
+    <loc>https://andrelow.sg/speeches/</loc>
+    <lastmod>2026-03-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://andrelow.sg/speeches/</loc>
+    <loc>https://andrelow.sg/speeches/stewarding-our-shores-for-those-to-come/</loc>
+    <lastmod>2026-03-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://andrelow.sg/speeches/strength-training-access/</loc>
+    <lastmod>2026-03-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://andrelow.sg/speeches/express-trains-and-shortening-commutes/</loc>
     <lastmod>2026-03-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

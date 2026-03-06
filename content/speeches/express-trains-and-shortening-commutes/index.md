@@ -11,6 +11,8 @@ showHero: true
 In a city where housing comes at a premium, the families who live in Punggol, Sengkang, Woodlands and other far flung towns made pragmatic choices about where to put down roots. And every morning, they pay for that choice in time. We should not have a two-speed Singapore, where time is a privilege of the few.
 {{< /lead >}}
 
+{{< youtubeLite id="DUUn59Wqz6I" label="Express trains and shortening commutes" >}}
+
 Chairman, the Land Transport Master Plan 2040 sets an ambitious target—9 in 10 peak public transport journeys completed within 45 minutes.
 
 As a Punggol resident, I speak from experience. A 45-minute door-to-door journey to the city is, for myself and most of my neighbours, a pipe dream. In a city where housing comes at a premium, the families who live in Punggol, Sengkang, Woodlands and other far flung towns made pragmatic choices about where to put down roots. And every morning, they pay for that choice in time. We should not have a two-speed Singapore, where time is a privilege of the few.
@@ -28,3 +30,5 @@ I urge the Government to incorporate provisions for express services on the Sele
 The time to make this decision is during feasibility studies, not after groundbreaking, and certainly not after the line is in operation.
 
 Sir, we ask young families to move further out in pursuit of affordable homes. The least we can do is to bring them back to the city, quickly. I urge the Ministry to plan the Seletar Line with the foresight the North East Line lacked—and the ambition that the next generation of Singaporeans deserves.
+
+*Cover photo by [Kit Suman](https://unsplash.com/@cobblepot?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-people-in-train-raijxc8Pczc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
